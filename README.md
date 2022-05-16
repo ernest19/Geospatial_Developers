@@ -5,6 +5,6 @@ The main objective of this program is to mentor colleagues and friends in the ge
 
 ## Tools 
 For the purpose of this program , we will be using following language and tools 
-	- QGIS 
-	- Google Earth Engine 
+		- QGIS 
+		- Google Earth Engine 
 	
