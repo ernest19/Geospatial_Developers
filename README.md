@@ -9,18 +9,25 @@ The main objective of this program is to mentor colleagues and friends in the ge
 ![license](https://img.shields.io/pypi/l/pylusat) -->
 ![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue)
 
+<!-- ![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue) -->
 
-
-
+.. image:: https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg
+        :target: https://www.buymeacoffee.com/eopokukwarteng
 
 
 
 ## Tools 
-I will encourage everyone to read around the following below if you have now knownledge .However, you should know that knowledge and prior experience in GIS and Remote  Sensing and the tools below,will be and advantege . 
+I will encourage everyone to read around the following below if you have no knownledge on them .However, you should know that knowledge and prior experience in GIS , Remote  Sensing and the tools below,will be and advantege . 
 
 - [QGIS](https://docs.qgis.org/3.22/en/docs/user_manual/) 
 - [Google Earth Engine (GEE)](https://earthengine.google.com/)
 - [HTML/CSS/Javascript](https://www.w3schools.com/)
 - [leaflet JS](https://leafletjs.com/)
 - [Geoserver](https://docs.geoserver.org/latest/en/user/gettingstarted/index.html)
+- [Postgresql/Postgis](https://www.postgresql.org/)
+- [Python](https://www.python.org/)
+- [Node Js](https://nodejs.org/en/)
+- [Django / GeoDjango](https://docs.djangoproject.com/en/4.1/ref/contrib/gis/)
+- [GeoPandas](https://geopandas.org/en/stable/)
+- [Geemap](https://github.com/giswqs/geemap)
 	
