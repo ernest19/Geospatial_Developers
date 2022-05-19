@@ -9,10 +9,8 @@ The main objective of this program is to mentor colleagues and friends in the ge
 ![license](https://img.shields.io/pypi/l/pylusat) -->
 ![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue)
 
-<!-- ![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue) -->
+![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)(https://www.buymeacoffee.com/eopokukwarteng)
 
-.. image:: https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg
-        :target: https://www.buymeacoffee.com/eopokukwarteng
 
 
 
