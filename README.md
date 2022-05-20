@@ -76,7 +76,7 @@ All interactions will take place on [Telegram](t.me/+KL3ieGiFr55kN2I0)
 #### [Module 7 - Project Work ](module_7)
 
 
-###  :pushpin: Bonus Course for some 50 Selected  Mentees after the program
+###  :pushpin: Bonus Course for  50 Mentees 
 
 -	Introduction Python
 -   Using Google Earth Engine  Python Api (geemap)
@@ -84,7 +84,7 @@ All interactions will take place on [Telegram](t.me/+KL3ieGiFr55kN2I0)
 -   Build an Advanced Geoportal with Django/GeoDjango 
 -   Setting up your own Geoserver  in production 
 -   Setting up your own GeoNetwork in production 
--   Building your own Datacollector and Realtime Dashboards
+-   Building your own Data collector and Realtime Dashboards
 
 	
 
