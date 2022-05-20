@@ -47,7 +47,6 @@ Tips to ensure smooth sign-up process:
 
 
 
-> :pushpin: Please make sure you have
 
 
 ## Prerequisites 
