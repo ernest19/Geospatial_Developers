@@ -76,7 +76,7 @@ Tips to ensure smooth sign-up process:
 #### [Module 7 - Project Work ](module_7)
 
 
-###  :pushpin: Bonus Course for the Selected Few 
+###  :pushpin: Bonus Course for some 50 Selected  Mentees after the program
 
 -	Introduction Python
 -   Using Google Earth Engine  Python Api (geemap)
