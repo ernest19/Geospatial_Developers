@@ -59,7 +59,6 @@ Tips to ensure smooth sign-up process:
 
 
 
-
 ###  :pushpin:  Course Outline
 
 ##### [Module 1 - Introduction to QGIS and Postgres Postgis](module_1/)
@@ -79,7 +78,8 @@ Tips to ensure smooth sign-up process:
 
 ###  :pushpin: Bonus Course for the Selected Few 
 
--	Introduction Python 
+-	Introduction Python
+-   Using Google Earth Engine  Python Api (geemap)
 -   Django / GeoDjango  crash course
 -   Build an Advanced Geoportal with Django/GeoDjango 
 -   Setting up your own Geoserver  in production 
@@ -91,4 +91,9 @@ Tips to ensure smooth sign-up process:
 ###  :pushpin: Other Programs  Coming Up Soon 
 - Becoming a Data scientist /  Data Analyst
 - Mastering Google Earth Engine 
-- 
+- Mastering Python with Geospatial Data Manupulation 
+
+
+
+
+
