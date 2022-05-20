@@ -45,8 +45,8 @@ Tips to ensure smooth sign-up process:
 - When signing up for Earth Engine, please log out of all Google accounts and ensure you are logged into only 1 account which you want associated with Earth Engine.
 
 
-
-
+##  Platform 
+All interaction will take place on [Telegram](t.me/+KL3ieGiFr55kN2I0)
 
 
 ## Prerequisites 
@@ -94,3 +94,7 @@ Tips to ensure smooth sign-up process:
 - Mastering Geospatial Data Science with Python:GeoPandas
 - Python GUI Development 
 
+
+
+
+[![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)](https://www.buymeacoffee.com/eopokukwarteng)
