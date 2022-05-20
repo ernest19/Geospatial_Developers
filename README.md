@@ -91,9 +91,6 @@ Tips to ensure smooth sign-up process:
 ###  :pushpin: Other Programs  Coming Up Soon 
 - Becoming a Data scientist /  Data Analyst
 - Mastering Google Earth Engine 
-- Mastering Python with Geospatial Data Manupulation 
-
-
-
-
+- Mastering Geospatial Data Science with Python:GeoPandas
+- Python GUI Development 
 
