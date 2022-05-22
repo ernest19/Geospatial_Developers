@@ -51,7 +51,7 @@ Tips to ensure smooth sign-up process:
 
 
 ##  Platform 
-All interactions will take place on [Telegram](http://t.me/+KL3ieGiFr55kN2I0)
+All interactions will take place on [Telegram](https://t.me/+KL3ieGiFr55kN2I0)
 
 
 ## Prerequisites 
