@@ -33,6 +33,10 @@ I will encourage everyone to read around the following below if you have no know
 - [Geemap](https://github.com/giswqs/geemap)
 	
 
+## Other Resources
+- [HTML and CSS Tutorial - Create a Website for Beginners](https://www.youtube.com/watch?v=kMT54MPz9oE) 
+- [QGIS  tutorial](https://youtu.be/d15Xl4OphDk)
+
 
 ## Sign-up for Google Earth Engine
 
@@ -50,6 +54,7 @@ All interactions will take place on [Telegram](t.me/+KL3ieGiFr55kN2I0)
 
 
 ## Prerequisites 
+- GitHub account
 - Fundamental understanding of basic remote sensing and GIS
 - Prior understanding of the basic concepts of programming is not required but may be helpful
 - Installation of  the above tools mentioned 
@@ -86,7 +91,7 @@ All interactions will take place on [Telegram](t.me/+KL3ieGiFr55kN2I0)
 -   Setting up your own GeoNetwork in production 
 -   Building your own Data collector and Realtime Dashboards
 
-	
+
 
 ###  :pushpin: Other Programs  Coming Up Soon 
 - Becoming a Data scientist /  Data Analyst
