@@ -12,6 +12,7 @@ The main objective of this program is to mentor colleagues and friends in the ge
 ![GEE](https://img.shields.io/static/v1?label=Leaflet&message=JS&color=green)
 ![GEE](https://img.shields.io/static/v1?label=Geo&message=server&color=blue)
 ![GEE](https://img.shields.io/static/v1?label=Node&message=JS&color=gren)
+![GEE](https://img.shields.io/static/v1?label=GEO&message=DJANGO&color=gren)
 [![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)](https://www.buymeacoffee.com/eopokukwarteng)
 
 
