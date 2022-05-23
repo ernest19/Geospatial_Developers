@@ -35,6 +35,7 @@ I will encourage everyone to read around the following below if you have no know
 	
 
 ## Other Resources
+- [HTML for Absolute Beginners](other_resources/html4beginners.pdf)
 - [HTML and CSS Tutorial - Create a Website for Beginners](https://www.youtube.com/watch?v=kMT54MPz9oE) 
 - [QGIS  tutorial](https://youtu.be/d15Xl4OphDk)
 
