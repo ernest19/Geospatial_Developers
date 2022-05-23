@@ -1,6 +1,6 @@
 # Welcome to Geospatial Developers Mentorship Program 
 
-## About this program
+## About this programme
 The main objective of this program is to mentor colleagues and friends in the geospatial world in the use of some open source tools for the development of geoportals .
 
 <!-- [![PyPI version](https://img.shields.io/pypi/v/pylusat?color=g)](https://pypi.org/project/pylusat/)
@@ -94,7 +94,7 @@ All interactions will take place on [Telegram](https://t.me/+KL3ieGiFr55kN2I0)
 
 
 
-###  :pushpin: Other Programs  Coming Up Soon 
+###  :pushpin: Other programme  Coming Up Soon 
 - Becoming a Data scientist /  Data Analyst
 - Mastering Google Earth Engine 
 - Mastering Geospatial Data Science with Python:GeoPandas
