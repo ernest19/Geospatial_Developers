@@ -32,12 +32,19 @@ I will encourage everyone to read around the following below if you have no know
 - [Django / GeoDjango](https://docs.djangoproject.com/en/4.1/ref/contrib/gis/)
 - [GeoPandas](https://geopandas.org/en/stable/)
 - [Geemap](https://github.com/giswqs/geemap)
+- [Git Hub Account ](https://github.com/)
 	
 
 ## Other Resources
 - [HTML for Absolute Beginners](other_resources/html4beginners.pdf)
 - [HTML and CSS Tutorial - Create a Website for Beginners](https://www.youtube.com/watch?v=kMT54MPz9oE) 
 - [QGIS  tutorial](https://youtu.be/d15Xl4OphDk)
+- [Python-Cookbook](other_resources/Python-Cookbook-3rd-Edition.pdf)
+- [Git & GitHub Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
+
+
+
 
 
 ## Sign-up for Google Earth Engine
