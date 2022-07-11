@@ -13,7 +13,9 @@ The main objective of this program is to mentor colleagues and friends in the ge
 ![GEE](https://img.shields.io/static/v1?label=Geo&message=server&color=blue)
 ![GEE](https://img.shields.io/static/v1?label=Node&message=JS&color=gren)
 ![GEE](https://img.shields.io/static/v1?label=GEO&message=DJANGO&color=darkslategray)
-[![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)](https://www.buymeacoffee.com/eopokukwarteng)
+
+[![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)](https://www.buymeacoffee.com/eopokukwarteng)[![GEE](https://img.shields.io/youtube/channel/views/UCpVSB-kS5ewGy314dxn5F6w?label=Geospatial%20Developers&style=social)](https://www.youtube.com/channel/UCpVSB-kS5ewGy314dxn5F6w)
+
 
 
 
@@ -112,3 +114,4 @@ All interactions will take place on [Telegram](https://t.me/+KL3ieGiFr55kN2I0)
 
 
 [![GEE](https://img.shields.io/static/v1?label=Donate&message=Buy%20me%20coffe&color=orange)](https://www.buymeacoffee.com/eopokukwarteng)
+[![GEE](https://img.shields.io/youtube/channel/views/UCpVSB-kS5ewGy314dxn5F6w?label=Geospatial%20Developers&style=social)](https://www.youtube.com/channel/UCpVSB-kS5ewGy314dxn5F6w)
