@@ -10,8 +10,8 @@
 - Component Architecture
 - Virtual DOM (Document Object Model)
 - One Way Data Flow
-- storage tank as a *state*
-- pass the data to any component that needs it as *props*
+- storage tank as a _state_
+- pass the data to any component that needs it as _props_
 - React Basics
   - Environment setup
     - Prettier
@@ -23,7 +23,7 @@
   - Let's build our Todo components
   - API Calls to our BE
   - Search and Filtering
-    - filter(), include()
+    - filter(), include() etc
   - Optimization
   - Rendering and Rerendeering
   - Final touches
