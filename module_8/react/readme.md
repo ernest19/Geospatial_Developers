@@ -1,0 +1,38 @@
+### React Curriculum
+
+- The History and Birth of React
+  - Vehicle <=> Web
+  - HTML -> Body, CSS-> Interior & Paintings , JavaScript -> Engine
+  - 2011, 2012(News feed on Facebook). 2013- went public
+  - UI Library.
+  - React is not a framework. NEXT JS, Django, Laravel
+  - JSX - Javascript XML
+- Component Architecture
+- Virtual DOM (Document Object Model)
+- One Way Data Flow
+- storage tank as a *state*
+- pass the data to any component that needs it as *props*
+- React Basics
+  - Environment setup
+    - Prettier
+    - Eslint
+    - config
+  - Create react app, Node, NPX
+  - NPM/Yarn
+  - Hooks vs Classes
+  - Let's build our Todo components
+  - API Calls to our BE
+  - Search and Filtering
+    - filter(), include()
+  - Optimization
+  - Rendering and Rerendeering
+  - Final touches
+  - Hooks: useState
+- Deployment
+- Extras
+- Routing in React
+- Context API & State Management
+- Styling in React
+- Redux
+- Typescript
+- Testing

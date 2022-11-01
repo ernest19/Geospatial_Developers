@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="XOnATC7TPSIUG96LE4Sf" name="Page-1">
+        <mxGraphModel dx="1328" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="_" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-720" y="30" width="640" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Search todo..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-515" y="120" width="230" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="todo1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-620" y="190" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="todo4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-620" y="230" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="todo2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-480" y="190" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="todo5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-480" y="230" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="todo3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="190" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="todo6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="230" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="My Todo List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-440" y="60" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
