@@ -43,12 +43,12 @@ collections
 
 
 
-#### [Exploring Spatial Indices in GEE] ()
+#### [Exploring Spatial Indices in GEE](training/modules/module3.md)
 - Exploring spectral indices (NDVI, NDBI, LSWI)
 - Stacking spectral indices and spectral bands
 
 
-#### [Random Forest Image Classification in GEE (training/modules/module5.md)
+#### [Random Forest Image Classification in GEE](training/modules/module5.md)
 - Introduction to Machine Learning and Classification in GEE 
 - Supervised classification in GEE
 - Accuracy assessment in GEE
