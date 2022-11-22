@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Forestry Commission of Ghana</origin>
+				<pubdate>Unknown</pubdate>
+				<title>Ghana Game Reserves</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.cersgis.org/product&amp;services.html</onlink>
+				<ftname Sync="TRUE">Kumasi_Metro_gr</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>All lands were stool lands which belong to the Chiefs. The need to protect certain areas based on their sensitive nature arose. The Government then decided to pay compensations to the land owners in order to reserve these sensitive features. In consultation with the Chiefs the areas were categorised and the boundaries surveyed and pillared. Documentation was done and registered as Government property.</abstract>
+			<purpose>To protect our animals to maintain the ecoligical balance,economical value and aesthetic or recreational value. </purpose>
+			<langdata>English</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-3.202208</westbc>
+				<eastbc Sync="TRUE">0.758097</eastbc>
+				<northbc Sync="TRUE">10.774611</northbc>
+				<southbc Sync="TRUE">5.335528</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">477893.374357</leftbc><rightbc Sync="TRUE">911164.733831</rightbc><bottombc Sync="TRUE">590991.921748</bottombc><topbc Sync="TRUE">1191058.237668</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>CERSGIS Data</themekey>
+			</theme>
+		</keywords>
+		<accconst>Public access: Access to modify this data is restricted to CERSGIS</accconst>
+		<useconst>
+For all data contained herein, (CERSGIS) makes no representations of any kind, including, but not limited to, the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. CERSGIS assumes no responsibility to maintain them in any manner or form.
+
+Terms of Agreement:
+1. Digital data received from the CERSGIS are to be used solely for internal purposes in the conduct of daily affairs.
+
+2. The data are provided, as is, without warranty of any kind and the user is responsible for understanding the accuracy limitations of all digital data layers provided herein, as documented in the accompanying Data Dictionary and Readme files. Any reproduction or manipulation of the above data must ensure that the coordinate reference system remains intact.
+
+3. Digital data received from the CERSGIS may not be reproduced or redistributed for use by anyone without first obtaining written permission from the CERSGIS. This clause is not intended to restrict distribution of printed mapped information produced from the digital data.
+
+4. Any maps, publications, reports, or other documents produced as a result of this project that utilize CERSGIS digital data will credit the CERSGIS Geographic as the source of the data with the following credit/disclaimer:
+
+"This (map/publication/report) was developed using CERSGISdigital data, but this secondary product has not been verified by CERSGIS and is not state-authorized."
+
+5. Users shall require any independent contractor, hired to undertake work that will utilize digital data obtained from the CERSGIS, to agree not to use, reproduce, or redistribute CERSGIS GIS data for any purpose other than the specified contractual work. All copies of CERSGIS GIS data utilized by an independent contractor will be required to be returned to the original user at the close of such contractual work. Users hereby agree to abide by the use and reproduction conditions specified above and agree to hold any independent contractor to the same terms. By using data provided herein, the user acknowledges that terms and conditions have been read and that the user is bound by these criteria.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Eric Kofi Forson</cntper>
+					<cntorg>CERSGIS</cntorg>
+				</cntperp>
+				<cntpos>Applications Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>PMB L17, University of Ghana, Legon.</address>
+					<city>Accra</city>
+					<country>Ghana</country>
+				</cntaddr>
+				<cntvoice>+233-302-500301/ +233-302-501796</cntvoice>
+				<cntfax>+233-302-500310</cntfax>
+				<cntemail>erickforson@yahoo.com</cntemail>
+				<hours>8:30am - 5:00pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse></browse>
+		<datacred>This data is credited to CERSGIS</datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native>
+		<crossref>
+			<citeinfo>
+				<origin>Forestry Commission of Ghana</origin>
+				<pubdate>Unknown</pubdate>
+				<title>Ghana Game Reserve</title>
+				<edition>First</edition>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.cersgis.org/product&amp;services.html</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attributes taken from the digital data are thoroughly checked by CERSGIS Staff.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>CERSGIS</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Forest Commission of Ghana</title>
+						<onlink>http://www.cersgis.org/product&amp;services.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Stool lands were categorised and the boundaries surveyed with the help of a surveying equipment (GPS). The boundaries were pillared. The polygons were plotted and registered.</procdesc>
+				<procdate>20101110</procdate>
+				<proctime>05032100</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>C:\WorkFolder\170_dist_capitals</srcused>
+				<procdate>20101110</procdate>
+				<proctime>05034000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\eforson\AppData\Local\Temp\xml92D9.tmp</srcused>
+				<procdate>20111118</procdate>
+				<proctime>09530100</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\eforson\AppData\Local\Temp\xmlB332.tmp</srcused>
+				<procdate>20120113</procdate>
+				<proctime>16073900</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\eforson\AppData\Local\Temp\xmlF96D.tmp</srcused>
+				<procdate>20120116</procdate>
+				<proctime>10164200</proctime>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Users\eforson\AppData\Local\Temp\xmlDBB.tmp</srcused><procdate Sync="TRUE">20120120</procdate><proctime Sync="TRUE">12595400</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Z:\DATA\VECTOR\SHAPEFILES\FOREST PROTECTED AREA\Game_Reserves</srcused><procdate Sync="TRUE">20120206</procdate><proctime Sync="TRUE">10232800</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset moved.</procdesc><srcused Sync="TRUE">C:\ELECTORAL_COMMISSION\SPATIAL\REGIONS\ASHANTI_REGION\DISTRICTS\KUMASI_METRO\Kumasi_Metro_gr</srcused><procdate Sync="TRUE">20120222</procdate><proctime Sync="TRUE">13273000</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="Protected_Areas_SpatialJoin1"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn><projcsn Sync="TRUE">WGS_1984_UTM_Zone_30N</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altunits>meters</altunits>
+			</altsys>
+			<depthsys>
+				<depthdu>meters</depthdu>
+			</depthsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="Protected_Areas_SpatialJoin1">
+			<enttyp>
+				<enttypl>Ghana Game Reserves</enttypl>
+				<enttypd>Polygons representing the pockets of reserved games in Ghana</enttypd>
+				<enttypds>CERSGIS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">OBJECTID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">Join_Count</attrlabl><attalias Sync="TRUE">Join_Count</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">TARGET_FID</attrlabl><attalias Sync="TRUE">TARGET_FID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">TYPE</attrlabl><attalias Sync="TRUE">TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">RESERVE_NA</attrlabl><attalias Sync="TRUE">RESERVE_NA</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AREA_HA</attrlabl><attalias Sync="TRUE">AREA_HA</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">REGION</attrlabl><attalias Sync="TRUE">REGION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Length</attrlabl><attalias Sync="TRUE">Shape_Length</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>The Executive Director</cntper>
+					<cntorg>CERSGIS</cntorg>
+				</cntperp>
+				<cntpos>Executive Director</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>PMB L17, University Of Ghana, Legon.</address>
+					<city>Accra</city>
+					<state>Greater Accra</state>
+					<postal>+233</postal>
+					<country>Ghana</country>
+				</cntaddr>
+				<cntvoice>+233-302-500301/+233-302-501796</cntvoice>
+				<cntfax>+233-302-500310</cntfax>
+				<cntemail>cersgis@ug.edu.gh</cntemail>
+				<hours>8:30am to 5:00am</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>See "Use Constraints"</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Shapefile</formname>
+					<formvern>9.3</formvern>
+					<transize>0.005</transize>
+					<dssize Sync="TRUE">0.000</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20120209</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Eric Kofi Forson</cntper>
+					<cntorg>CERSGIS</cntorg>
+				</cntperp>
+				<cntpos>Applications Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>PMB L17, University of Ghana, Legon</address>
+					<city>Accra</city>
+					<state>Greater Accra</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+					<country>Ghana</country>
+				</cntaddr>
+				<cntvoice>+233-302-500301/+233-302-501796</cntvoice>
+				<cntfax>+233-302-500310</cntfax>
+				<cntemail>erickforson@yahoo.com</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metextns>
+			<onlink>http://www.cersgis.org/product&amp;services.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta>English</langmeta></metainfo>
+	<Esri><CreaDate>20210927</CreaDate><CreaTime>17234700</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20210927</SyncDate><SyncTime>17211500</SyncTime><ModDate>20210927</ModDate><ModTime>17211500</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\Clip" Date="20120209" Time="110611">Clip Game_Reserves District_Boundary C:\EC-GHANA\SPATIAL\REGIONS\ASHANTI_REGION\DISTRICTS\Kumasi_Metro_gr.shp #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20121023" Time="130515">Merge C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Kumasi_Metro_gr.shp;C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Afram_Plains_gr1.shp;C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Central_gr.shp C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\Ashanti_Region_gr_new.shp "AREA "AREA" true true false 19 Double 6 18 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Kumasi_Metro_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Afram_Plains_gr1.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Central_gr.shp,AREA,-1,-1;PERIMETER "PERIMETER" true true false 19 Double 6 18 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Kumasi_Metro_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Afram_Plains_gr1.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Central_gr.shp,PERIMETER,-1,-1;PROTECT_A "PROTECT_A" true true false 30 Text 0 0 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Kumasi_Metro_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Afram_Plains_gr1.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\ASHANTI_REGION\DISTRICTS\Sekyere_Central_gr.shp,PROTECT_A,-1,-1"</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121024" Time="153242">CalculateField Ashanti_Region_gr_new DISTRICT "Kumasi Metro" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121024" Time="155040">CalculateField Ashanti_Region_gr_new DISTRICT "Sekyere Central" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121024" Time="160432">CalculateField Ashanti_Region_gr_new DISTRICT "Sekyere Afram Plains" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20121025" Time="115451">Merge C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\ASHANTI_REGION\Ashanti_Region_gr_new.shp;C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\BRONG_AHAFO_REGION\Brong_Ahafo_Region_gr.shp;C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\CENTRAL_REGION\Central_Region_gr1.shp;'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\EASTERN_REGION\Eastern Region_gr.shp';'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\GREATER_ACCRA_REGION\Greater Accra Region_gr.shp';'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\NORTHERN_REGION\Northern Region_gr1.shp';'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\UPPER_WEST_REGION\Upper West_gr.shp';'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\VOLTA_REGION\Volta Region_gr.shp';'C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\WESTERN_REGION\Western Region_gr1.shp' C:\ELECTORAL_COMMISSION\SPATIAL\Ghana_Game_Reserves.shp "AREA "AREA" true true false 19 Double 6 18 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\ASHANTI_REGION\Ashanti_Region_gr_new.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\BRONG_AHAFO_REGION\Brong_Ahafo_Region_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\CENTRAL_REGION\Central_Region_gr1.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\EASTERN_REGION\Eastern Region_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\GREATER_ACCRA_REGION\Greater Accra Region_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\NORTHERN_REGION\Northern Region_gr1.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\UPPER_WEST_REGION\Upper West_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\VOLTA_REGION\Volta Region_gr.shp,AREA,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\WESTERN_REGION\Western Region_gr1.shp,AREA,-1,-1;PERIMETER "PERIMETER" true true false 19 Double 6 18 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\ASHANTI_REGION\Ashanti_Region_gr_new.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\BRONG_AHAFO_REGION\Brong_Ahafo_Region_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\CENTRAL_REGION\Central_Region_gr1.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\EASTERN_REGION\Eastern Region_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\GREATER_ACCRA_REGION\Greater Accra Region_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\NORTHERN_REGION\Northern Region_gr1.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\UPPER_WEST_REGION\Upper West_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\VOLTA_REGION\Volta Region_gr.shp,PERIMETER,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\WESTERN_REGION\Western Region_gr1.shp,PERIMETER,-1,-1;PROTECT_A "PROTECT_A" true true false 30 Text 0 0 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\ASHANTI_REGION\Ashanti_Region_gr_new.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\BRONG_AHAFO_REGION\Brong_Ahafo_Region_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\CENTRAL_REGION\Central_Region_gr1.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\EASTERN_REGION\Eastern Region_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\GREATER_ACCRA_REGION\Greater Accra Region_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\NORTHERN_REGION\Northern Region_gr1.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\UPPER_WEST_REGION\Upper West_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\VOLTA_REGION\Volta Region_gr.shp,PROTECT_A,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\WESTERN_REGION\Western Region_gr1.shp,PROTECT_A,-1,-1;DISTRICT "DISTRICT" true true false 30 Text 0 0 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\ASHANTI_REGION\Ashanti_Region_gr_new.shp,DISTRICT,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\BRONG_AHAFO_REGION\Brong_Ahafo_Region_gr.shp,DISTRICT,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\VOLTA_REGION\Volta Region_gr.shp,DISTRICT,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\WESTERN_REGION\Western Region_gr1.shp,DISTRICT,-1,-1;DISTRICTS "DISTRICTS" true true false 30 Text 0 0 ,First,#,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\CENTRAL_REGION\Central_Region_gr1.shp,DISTRICTS,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\EASTERN_REGION\Eastern Region_gr.shp,DISTRICTS,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\GREATER_ACCRA_REGION\Greater Accra Region_gr.shp,DISTRICTS,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\NORTHERN_REGION\Northern Region_gr1.shp,DISTRICTS,-1,-1,C:\ELECTORAL_COMMISSION\SPATIAL\REGION\NEW_SHAPEFILES\UPPER_WEST_REGION\Upper West_gr.shp,DISTRICTS,-1,-1"</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="122202">CalculateField Ghana_Game_Reserves REGION "Brong Ahafo" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="122608">CalculateField Ghana_Game_Reserves REGION "Central" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="123645">CalculateField Ghana_Game_Reserves REGION "Eastern" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="123819">CalculateField Ghana_Game_Reserves DISTRICTS "Ashanti" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="124935">CalculateField Ghana_Game_Reserves DISTRICT [DISTRICTS] VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="125147">CalculateField Ghana_Game_Reserves REGION "Greater Accra" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="125305">CalculateField Ghana_Game_Reserves REGION "Northern" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="125555">CalculateField Ghana_Game_Reserves REGION "Upper West" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="125700">CalculateField Ghana_Game_Reserves REGION "Volta" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20121025" Time="125844">CalculateField Ghana_Game_Reserves REGION "Western" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20121107" Time="165958">CopyFeatures "C:\New folder\ELECTORAL_COMMISSION_try\SPATIAL\Ghana_Game_Reserves.shp" "C:\New folder\ELECTORAL_COMMISSION_try\SPATIAL\Ghana_Districts.gdb\Ghana_Game_Reserves" # 0 0 0</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20150429" Time="033645">CopyFeatures C:\n\Ghana_GIS\Ghana_Districts.gdb\Ghana_Game_Reserves_dist C:\n\Ghana_GIS\Ghana-GIS.gdb\Ghana_Districts\Ghana_Game_Reserves_dist # 0 0 0</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150825" Time="082222">CalculateField Ghana_Game_Reserves_dist PROTECT_A "" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160804" Time="094526">CalculateField "Game Reserve" DISTRICT "Juabeso" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160804" Time="094558">CalculateField "Game Reserve" DISTRICT "Bia West" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20200317" Time="130401">CalculateField Game_Reserve TYPE "GAME RESERVE" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20200317" Time="130513">CalculateField Game_Reserve PROTECT_A UCase( [PROTECT_A] ) VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20200317" Time="130639">CalculateField PROTECTED_AREAS RESERVE_NA [PROTECT_A] VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Analysis Tools.tbx\SpatialJoin" Date="20210927" Time="172116">SpatialJoin Protected_Areas Ghana_Regional_Boundary C:\Users\CERSGIS-RS1\Documents\ArcGIS\Default.gdb\Protected_Areas_SpatialJoin1 JOIN_ONE_TO_ONE KEEP_ALL "TYPE "TYPE" true true false 20 Text 0 0 ,First,#,Protected_Areas,TYPE,-1,-1;RESERVE_NA "RESERVE_NA" true true false 30 Text 0 0 ,First,#,Protected_Areas,RESERVE_NA,-1,-1;AREA_HA "AREA_HA" true true false 13 Float 0 0 ,First,#,Protected_Areas,AREA_HA,-1,-1;REGION "REGION" true true false 30 Text 0 0 ,First,#,Ghana_Regional_Boundary,REGION,-1,-1" INTERSECT # #</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\LAPTOP-M9TK2507\C$\Users\CERSGIS-RS1\Documents\ArcGIS\Default.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">Protected_Areas_SpatialJoin1</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps><copyHistory><copy source="C:\ELECTORAL_COMMISSION\SPATIAL\REGION\Ghana_Game_Reserves" dest="\\CERSGIS-Z200-02\C$\ELECTORAL_COMMISSION\SPATIAL\Ghana_Game_Reserves" date="20121025" time="16013300"></copy></copyHistory><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits><projcsn Sync="TRUE">WGS_1984_UTM_Zone_30N</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.7'&gt;&lt;WKT&gt;PROJCS[&amp;quot;WGS_1984_UTM_Zone_30N&amp;quot;,GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-3.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,32630]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;10000&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;32630&lt;/WKID&gt;&lt;LatestWKID&gt;32630&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle></Esri><dataIdInfo><envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</envirDesc><dataLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="GHA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">Protected_Areas_SpatialJoin1</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">477893.374357</westBL><eastBL Sync="TRUE">911164.733831</eastBL><northBL Sync="TRUE">1191058.237668</northBL><southBL Sync="TRUE">590991.921748</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-3.202208</westBL><eastBL Sync="TRUE">0.758097</eastBL><northBL Sync="TRUE">10.774611</northBL><southBL Sync="TRUE">5.335528</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="GHA" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\GYEABOUR\C\ELECTORAL_COMMISSION\SPATIAL\REGIONS\ASHANTI_REGION\DISTRICTS\KUMASI_METRO\KUMASI_METRO_M\Kumasi_Metro_gr</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.000</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">File Geodatabase Feature Class</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" value="32630" code="32630">WGS_1984_UTM_Zone_30N</identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">2.1(3.0.1)</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="Protected_Areas_SpatialJoin1"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20210927</mdDateSt></metadata>
